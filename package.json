@@ -1,0 +1,24 @@
+{
+  "name": "ui-server",
+  "version": "0.0.1",
+  "description": "A simple server to host static UI files",
+  "main": "ui_server.js",
+  "scripts": {
+    "start": "node ui_server.js"
+  },
+  "dependencies": {
+    "express": "^4.9.x"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanalane/ui-server"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT"
+}
