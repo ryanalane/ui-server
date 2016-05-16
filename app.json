@@ -1,5 +1,5 @@
 {
   "name": "ui-server",
-  "description": "A simple server to host static UI files",
+  "description": "A simple server to serve static UI files and dummy API calls",
   "keywords": ["node", "express"]
 }

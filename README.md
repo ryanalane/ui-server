@@ -1,5 +1,5 @@
 # ui-server
-A simple ui-server template for serving static files.
+A simple ui-server template for serving static files and dummy API calls.
 
 ## Install
 `npm install`
