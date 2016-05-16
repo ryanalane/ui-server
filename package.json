@@ -4,7 +4,7 @@
   "description": "A simple server to host static UI files",
   "main": "index.js",
   "scripts": {
-    "start": "node ui_server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.9.x"
