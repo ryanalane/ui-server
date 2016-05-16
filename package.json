@@ -2,7 +2,7 @@
   "name": "ui-server",
   "version": "0.0.1",
   "description": "A simple server to host static UI files",
-  "main": "ui_server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node ui_server.js"
   },
